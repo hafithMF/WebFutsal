@@ -1,0 +1,93 @@
+[
+    {
+        "name": "hafith muhammad fauzan",
+        "price": 13,
+        "quantity": 0,
+        "image": "/img/11.JPG",
+            "type": "Pivot"
+        },
+
+    {
+
+        "name": "ibrahim",
+        "price": 10,
+        "image": "/img/20.JPG",
+        "type": "Flank"
+        
+    },
+    {
+
+        "name": "ahmad tauhid",
+        "price": 12,
+        "image": "/img/18.JPG",
+            "type": "Anchor"
+        
+    },
+    {
+
+        "name": "mado",
+        "price": 9,
+        "image": "/img/12.JPG",
+            "type": "Anchor"
+        
+    },
+    {
+
+        "name": "radid aditia renaldi",
+        "price": 34,
+        "image": "/img/14.JPG",
+            "type": "Kiper"
+    },
+    {
+
+        "name": "sahru",
+        "price": 7,
+        "image": "/img/13.JPG",
+            "type": "Flank"
+    },
+    {
+
+        "name": "rofi dzaki",
+        "price": 77,
+        "image": "/img/16.JPG",
+            "type": "Anchor"
+        
+    },
+    {
+
+        "name": "adli fathi raihan",
+        "price": 1,
+        "image": "/img/17.JPG",
+            "type": "Flank"
+    },
+    {
+
+        "name": "fayyadh rantisi",
+        "price": 7,
+        "image": "/img/19.JPG",
+            "type": "Flank"
+    },
+    {
+
+        "name": "faiq mustanir",
+        "price": 99,
+        "image": "/img/21.JPG",
+            "type": "Anchor"
+        
+    },
+    {
+
+        "name": "gemi widodo",
+        "price": 89,
+        "image": "/img/22.JPG",
+            "type": "Kiper"
+    },
+    {
+
+        "name": "hanif gibran",
+        "price": 2,
+        "image": "/img/23.JPG",
+            "type": "Flank"
+    }
+    
+]
